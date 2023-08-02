@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats-git-main-fantasy-shaw.vercel.app/api?username=Fantasy-Shaw&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shawgg's GitHub stats](https://github-readme-stats-git-main-fantasy-shaw.vercel.app/api?username=Fantasy-Shaw&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-main-fantasy-shaw.vercel.app/api/top-langs/?username=Fantasy-Shaw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
