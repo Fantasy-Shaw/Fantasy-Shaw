@@ -1,6 +1,6 @@
 [![Shawgg's GitHub stats](https://github-readme-stats-eight-tau-11.vercel.app/api?username=Fantasy-Shaw&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-eight-tau-11.vercel.app/api/top-langs/?username=Fantasy-Shaw&layout=compact&langs_count=8&hide=php,c,css,gherkin,mustache,html,assembly,scss,tsql,less,yacc,lex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-tau-11.vercel.app/api/top-langs/?username=Fantasy-Shaw&layout=compact&langs_count=8&hide=php,c,css,gherkin,mustache,html,assembly,scss,tsql&exclude_repo=PrivateHistoryCodeBackup,2021SysSoftwareDev,OPC-sink-master,zlinks,zlinks-ui,AI-backend,AI-frontend)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Fantasy-Shaw/Fantasy-Shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
